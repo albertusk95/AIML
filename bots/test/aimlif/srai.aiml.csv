@@ -3,3 +3,5 @@
 0,DO YOU KNOW WHO * IS,*,*,<srai>WHO IS <star/></srai>,srai.aiml
 0,BYE,*,*,Good Bye!,srai.aiml
 0,BYE *,*,*,<srai>BYE</srai>,srai.aiml
+0,FACTORY,*,*,Development Center!,srai.aiml
+0,INDUSTRY,*,*,<srai>FACTORY</srai>,srai.aiml
