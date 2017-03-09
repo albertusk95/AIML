@@ -5,3 +5,7 @@
 0,BYE *,*,*,<srai>BYE</srai>,srai.aiml
 0,FACTORY,*,*,Development Center!,srai.aiml
 0,INDUSTRY,*,*,<srai>FACTORY</srai>,srai.aiml
+0,SCHOOL,*,*,School is an important institution in a child's life.,srai.aiml
+0,_ SCHOOL,*,*,<srai>SCHOOL</srai>,srai.aiml
+0,SCHOOL *,*,*,<srai>SCHOOL</srai>,srai.aiml
+0,_ SCHOOL *,*,*,<srai>SCHOOL</srai>,srai.aiml
